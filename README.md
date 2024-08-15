@@ -6,9 +6,9 @@
 
 - 📄 My Portfolio: [https://ahmedabdelmoneim22.github.io/index/](https://ahmedabdelmoneim22.github.io/index/)
 
-- 📫 How to reach me: **ahmedabdelmoneim260@gmail.com**
-
 - 📄 My Resume: [https://drive.google.com/file/d/1pLzyqHb4ADIppcV-Azimcjfu6X8KGzge/view](https://drive.google.com/file/d/1pLzyqHb4ADIppcV-Azimcjfu6X8KGzge/view)
+
+- 📫 How to reach me: **ahmedabdelmoneim260@gmail.com**
 
 - 📫 How to reach me: **WhatsApp: +01125422549**
 
