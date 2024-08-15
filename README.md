@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **WhatsApp: +01125422549**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ahmed-abdel-moneim-b20930251/</h3>
 <p align="left">
 </p>
 
