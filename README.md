@@ -1,4 +1,4 @@
-![Alt Text](https://avatars.githubusercontent.com/u/125546540?v=4)
+<!--![Alt Text](https://avatars.githubusercontent.com/u/125546540?v=4)-->
 <h1 align="center">Hi 👋, I'm Ahmed Abdel Moneim Abdel Halim Hassan</h1>
 <h3 align="center">A passionate Junior Business Intelligence Developer from Cairo, Egypt</h3>
 
