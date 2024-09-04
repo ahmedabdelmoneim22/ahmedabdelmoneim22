@@ -6,7 +6,7 @@
 
 - 📄 My Portfolio: [https://ahmedabdelmoneim22.github.io/index/](https://ahmedabdelmoneim22.github.io/index/)
 
-- 📄 My Resume: [https://drive.google.com/file/d/1MQxv0E4ACBAupN0K0PzPyf6_N78SRomS/view?usp=sharing](https://drive.google.com/file/d/1MQxv0E4ACBAupN0K0PzPyf6_N78SRomS/view?usp=sharing)
+- 📄 My Resume: [https://drive.google.com/file/d/1QgZtuSyk8CrcOAgkncp8owH9G0i1fvaZ/view?usp=sharing](https://drive.google.com/file/d/1QgZtuSyk8CrcOAgkncp8owH9G0i1fvaZ/view?usp=sharing)
 
 - 📫 How to reach me: **ahmedabdelmoneim260@gmail.com**
 
