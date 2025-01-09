@@ -6,7 +6,7 @@
 
 - 📄 My Portfolio: [https://www.datascienceportfol.io/ahmedabdelmoneim260](https://www.datascienceportfol.io/ahmedabdelmoneim260)
 
-- 📄 My Resume: [https://drive.google.com/file/d/10Z_8JhPbXuh7UySYH3zBpE3LGeI75rgR/view?usp=sharing](https://drive.google.com/file/d/10Z_8JhPbXuh7UySYH3zBpE3LGeI75rgR/view?usp=sharing)
+- 📄 My Resume: [https://drive.google.com/file/d/1SC19v0vsJJhAW4-lqG-9xaKDu4hBcRG3/view?usp=sharing](https://drive.google.com/file/d/1SC19v0vsJJhAW4-lqG-9xaKDu4hBcRG3/view?usp=sharing)
 
 - 📫 How to reach me: **ahmedabdelmoneim260@gmail.com**
 
